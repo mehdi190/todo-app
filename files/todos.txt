@@ -1,6 +1,12 @@
 call the boss
 show 
-add new player
+
+clean the programm
 Fix the bug
-clean the bathroom
+Buy Plants
 Master Python!
+Anything
+listbox
+My newest todo added
+And lastly
+
