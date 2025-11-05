@@ -3,3 +3,4 @@ show
 add new player
 Fix the bug
 clean the bathroom
+Master Python!
